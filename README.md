@@ -110,3 +110,38 @@ This E-Learning Platform with Progress Tracking focuses on simplicity, accessibi
 ---
 
 *For more information or a detailed implementation plan, contact the development team.*
+
+
+## 03)AI-Driven, Field-Specific Interview Simulation
+
+The AI Interview Coach offers smart, adaptive interview practice tailored to the user’s career interests and target field. When a user specifies their desired role or industry (e.g., Software Engineering, Marketing, Data Science, Teaching), the AI dynamically generates interview questions relevant to that field.
+
+### How It Works
+
+- **User Input:**  
+  Upon starting a session, users are prompted to select or type their target job role or field.
+- **Custom Question Generation:**  
+  The AI uses this input to generate realistic, field-appropriate interview questions—from technical topics to behavioral scenarios.
+- **Adaptive Follow-Ups:**  
+  Based on the user’s answers, the AI asks follow-up questions, simulating a real interviewer in that specific field.
+- **Specialized Feedback:**  
+  Feedback and sample answers are customized for the selected role, helping users understand industry expectations.
+
+### Example
+
+- If a user selects “Software Developer,” questions might include coding challenges, system design, or problem-solving scenarios.
+- If a user selects “Marketing,” questions might focus on campaign strategies, analytics, or creativity.
+- For “Teaching,” questions could address classroom management, lesson planning, or student engagement.
+
+### Benefits
+
+- **Personalized Practice:**  
+  Users get targeted practice for their chosen career path.
+- **Real-World Preparation:**  
+  Simulated interviews mirror actual questions and scenarios from the field.
+- **Confidence Building:**  
+  Field-specific feedback helps users feel prepared for a variety of professional interviews.
+
+---
+
+*This feature leverages AI APIs to ensure interviews are always relevant, current, and tailored to user goals.*
